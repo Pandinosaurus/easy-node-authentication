@@ -15,6 +15,7 @@ If you would like to download the code and try it for yourself:
 2. Install packages: `npm install`
 3. Change out the database configuration in config/database.js
 4. Change out auth keys in config/auth.js
+4bis. "for example, get them from google developer https://console.developers.google.com/, then you might need to add google+ api to your project. In your google developers page, go to your dashboard, and click on enable api, then look for google+ api and select it, this will enable it."
 5. Launch: `node server.js`
 6. Visit in your browser at: `http://localhost:8080`
 
